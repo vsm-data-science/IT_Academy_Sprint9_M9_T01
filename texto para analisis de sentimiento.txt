@@ -1,0 +1,18 @@
+Lift (2024 film)
+Walking into the cinema, my excitement bubbled as I settled into my seat, ready to be swept away by the much-anticipated "Lift," a 2024 film directed by Julia Harper. The dimming lights signaled the beginning of a cinematic journey that promised to be nothing short of extraordinary.
+
+From the film's mysterious prologue, I found myself captivated by the storytelling prowess and visual artistry on display. Julia Harper's direction, coupled with breathtaking cinematography, immediately immersed me in a world of emotions and picturesque landscapes that set the stage for the characters' unfolding journey.
+
+Emily Thompson's portrayal of the protagonist struck a chord within me, as her character navigated the complexities of life with authenticity and grace. The highs and lows of her journey resonated deeply, and I couldn't help but feel a personal connection to the raw and genuine performance.
+
+"Lift" unfolded with themes of self-discovery, resilience, and the indomitable spirit of the human soul. The narrative touched on aspects of my own life, prompting reflection on my journey and the challenges that have shaped me into who I am today.
+
+The supporting cast added layers of richness to the storytelling, with each character contributing a unique flavor to the narrative. The ensemble of actors, both seasoned and fresh talents, brought the story to life in a way that kept me engaged from the opening scenes to the final credits.
+
+What stood out most to me was the film's masterful use of symbolism and metaphor. The title, "Lift," took on profound meanings throughout the story, symbolizing personal growth, the elevating power of love, and the triumph over obstacles that weigh us down.
+
+As the credits rolled and the lights brightened the theater, I felt a sense of fulfillment. "Lift" had exceeded my expectations, leaving an indelible mark on my cinematic experience. Eager to share my thoughts, I left the theater inspired to discuss the layers of meaning and the emotional journey I had just witnessed.
+
+"Lift" wasn't just a movie; it was a deeply personal exploration that resonated with me on multiple levels. Stepping out into the world, I carried with me the echoes of its messages, inspired to embark on my own uplifting journey of self-discovery.
+
+Vamos a realizar un análisis de sentimiento en el texto utilizando la biblioteca NLTK de Python, específicamente el módulo VADER (Valence Aware Dictionary and sEntiment Reasoner).
